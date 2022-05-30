@@ -1,4 +1,11 @@
-# Next.js + Tailwind CSS Example
+# KryptoNaut NFT MarketPlace (NextJS + TailwindCSS + ThirdWeb + Web 3.0)
+
+![Screenshot (105)](https://user-images.githubusercontent.com/84927939/171040082-22d5a707-18c6-4102-804a-5cf7fd869204.png)
+
+![Screenshot (106)](https://user-images.githubusercontent.com/84927939/171040098-2e289ef9-6ca7-4ff9-a4a3-dba8eb33e941.png)
+
+![Screenshot (107)](https://user-images.githubusercontent.com/84927939/171040110-b428e5db-dd84-40e4-89e2-c2733119baaa.png)
+
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
