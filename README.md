@@ -1,5 +1,7 @@
 # KryptoNaut NFT MarketPlace (NextJS + TailwindCSS + ThirdWeb + Web 3.0)
 
+## Responsive NFT MarketPlace Blockchain Application where Users can Mint their own NFT's and List their own NFT's with MetaMask
+
 ![Screenshot (105)](https://user-images.githubusercontent.com/84927939/171040082-22d5a707-18c6-4102-804a-5cf7fd869204.png)
 
 ![Screenshot (106)](https://user-images.githubusercontent.com/84927939/171040098-2e289ef9-6ca7-4ff9-a4a3-dba8eb33e941.png)
